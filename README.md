@@ -21,5 +21,3 @@ This repository documents my **machine learning journey** through **22 hands-on 
 Stay tuned as I document my progress and share insights! 🚀📊  
 
 ---
-
-Let me know if you want any refinements! 🔥
