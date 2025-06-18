@@ -18,6 +18,4 @@ This repository documents my **machine learning journey** through **22 hands-on 
 ✔️ Implement advanced AI techniques  
 ✔️ Gain hands-on experience with real-world applications  
 
-Stay tuned as I document my progress and share insights! 🚀📊  
-
 ---
